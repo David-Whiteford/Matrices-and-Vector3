@@ -1,0 +1,7 @@
+﻿  main.cpp
+g:\matrices-and-vector3\transformational lib\myvector3.h(10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MyMatrix3.cpp
+g:\matrices-and-vector3\transformational lib\myvector3.h(10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MyVector3.cpp
+g:\matrices-and-vector3\transformational lib\myvector3.h(10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
